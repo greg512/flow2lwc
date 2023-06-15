@@ -1,6 +1,6 @@
 # flow2lwc
 
-Flow2lwc is a lightweight solution designed for the Salesforce Platform that allows you to seemlessly invoke Autolaunched Flows from Lightning Web Components and retrieve the Flow's output variables.
+Flow2lwc is a lightweight tool built for the Salesforce Platform that allows you to seemlessly invoke Autolaunched Flows from Lightning Web Components and retrieve the Flow's output variables.
 
 ## Who Should Use This?
 
@@ -9,9 +9,9 @@ avoid creating new Apex controller classes and test classes.
 
 ## Installation
 
-Deploy the code to your Salesforce org:
+Grab the code from [here](https://github.com/greg512/flow2lwc/tree/feature/initial-build/src/main/default/classes) or deploy the code to your Salesforce org:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=greg512&repo=flow2lwc)
+[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=greg512&repo=flow2lwc)
 
 ## Usage
 
