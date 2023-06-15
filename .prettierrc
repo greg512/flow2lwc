@@ -1,0 +1,19 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": { "singleQuote": true }
+        },
+        {
+            "files": "**/lwc/**/*.html",
+            "options": { "parser": "lwc" }
+        },
+        {
+            "files": "*.{cmp,page,component}",
+            "options": { "parser": "html" }
+        }
+    ]
+}

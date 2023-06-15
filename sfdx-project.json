@@ -1,0 +1,13 @@
+{
+    "packageDirectories": [
+        {
+            "path": "src",
+            "default": true
+        },
+        {
+            "path": "unpackaged"
+        }
+    ],
+    "name": "flow-data-to-lwc",
+    "sourceApiVersion": "57.0"
+}
