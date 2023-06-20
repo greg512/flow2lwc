@@ -11,7 +11,7 @@ avoid creating new Apex controller classes and test classes.
 
 Grab the code from [here](https://github.com/greg512/flow2lwc/tree/feature/initial-build/src/main/default/classes) or deploy the code to your Salesforce org:
 
-[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=greg512&repo=flow2lwc)
+[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=greg512&repo=flow2lwc&ref=main)
 
 ## Usage
 
